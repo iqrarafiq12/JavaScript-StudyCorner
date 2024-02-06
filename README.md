@@ -7,13 +7,13 @@
 1. Registration Form
    - [Project Folder Here](https://github.com/iqrarafiq12/YOUNGDEV.INTERNS-24/tree/main/Registration%20Form)
    - [Live Preview](https://signup-signin-user-validation.netlify.app/)
-   - [Languages](HTML, CSS & JavaScript)
+   - Languages: HTML, CSS & JavaScript
 
 2. Landing Page Website
    - [Project Folder Here](https://github.com/iqrarafiq12/YOUNGDEV.INTERNS-24/tree/main/Travel%20Landing)
    - [Live Preview](https://tribe-agency.netlify.app/)
-   -  - [Languages](HTML, CSS & JavaScript)
+   - Languages: HTML, CSS & JavaScript
 
 3. Portfolio Website
    - [Live Preview](https://izzahhere.wordpress.com/)
-   - [Languages](Wordpress)
+   - Languages: Wordpress
